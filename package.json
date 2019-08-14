@@ -1,7 +1,14 @@
 {
   "name": "i2c-seesaw-moisture-sensor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "library for reading i2c plant moisture sensor",
+  "homepage": "https://github.com/KaylinAnn/i2c-seesaw-moisture-sensor",
+  "keywords": [
+    "seesaw",
+    "i2c",
+    "moisture sensor",
+    "adafruit"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
